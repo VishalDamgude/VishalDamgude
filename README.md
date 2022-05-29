@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Damgude
-- 👀 I’m interested in Problem Solving, Data Structures and Algorithms, C++, Go, Python and developing personal projects.
+- 👀 I’m interested in Problem Solving, Data Structures and Algorithms, C++, Go, Python and building personal projects.
 - 🌱 I’m currently learning Go Programming language.
 - 📫 Reach me at damgudevishal20@gmail.com or https://www.linkedin.com/in/vishal-damgude-151910136/
 - Check Out my below projects:
